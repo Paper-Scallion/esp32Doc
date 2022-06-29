@@ -14,3 +14,13 @@ sort: 2
 |ESP-IDF|乐鑫ESP32官方开发框架|官方SDK，更加贴近底层，相比Arduino方式保真度高|上手难度较高、环境配置较复杂|
 |PlatformIO(Arduino)|使用基于PlatformIO编写和编译Arduino程序|完善的代码补全|更新可能较慢、库函数版本落后|
 |PlatformIO(ESP-IDF)|使用基于PlatformIO编写和编译ESP-IDF程序|官方SDK|更新可能较慢、库函数版本落后|
+
+## 本教程使用的集成开发环境
+本教程基于PlatformIO(Arduino)来对ESP32进行编程，整套工作流程方便快捷，同时又能借助Arduino强大的生态，直接使用其他开发者编写的库函数，大大减小了开发所花费的时间和精力。
+
+## 开发环境的搭建与配置
+### 1. 下载VSCode
+打开[Visual Studio Code官网](https://code.visualstudio.com/)，点击Download按钮，根据您操作系统下载相应的软件，并安装。具体安装方法可以参考[这篇教程](https://blog.csdn.net/weixin_46245846/article/details/113793024)。
+### 2. 安装PlatformIO扩展
+
+### 3. 安装ESP32(Arduino)组件
