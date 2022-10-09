@@ -87,6 +87,10 @@ Arduino 社区相当庞大，你可以在其中找到大量有价值的内容，
 
 要安装 Arduino-ESP32，请参阅安装指南中的对应部分。我们建议您使用开发板管理器来安装。
 
+- [安装](/esp32Doc/contents/first_steps/installing.html)
+    - [在安装之前](/esp32Doc/contents/first_steps/installing.html#在安装之前)
+    - [使用 Arduino IDE 安装](/esp32Doc/contents/first_steps/installing.html#使用-arduino-ide-安装)
+
 ## 示例程序
 
 将工具链安装到您的集成开发环境后，您将能够看到 ESP32 的所有[专用示例](https://github.com/espressif/arduino-esp32/tree/master/libraries)。这些示例位于示例菜单中或每个库的文件夹中。
