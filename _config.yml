@@ -29,5 +29,5 @@ exclude:
   - package-lock.json
   - webpack.config.js
   - jekyll-rtd-theme.gemspec
-  - README.md
+# - README.md
   - chapter1
