@@ -100,3 +100,5 @@ Arduino 社区相当庞大，你可以在其中找到大量有价值的内容，
 - [ESP32-C3](https://www.espressif.com.cn/sites/default/files/documentation/esp32-c3_datasheet_cn.pdf)
 
 - [ESP32-S3](https://www.espressif.com.cn/sites/default/files/documentation/esp32-s3_datasheet_cn.pdf)
+
+## 相关资源
