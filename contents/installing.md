@@ -15,7 +15,7 @@ sort: 2
 以下是直接从 Arduino IDE 安装 Arduino-ESP32 的步骤。
 
 '''note
-有关 SoC 支持的相关内容，请查看所[支持 Soc 表格](esp32Doc/contents/getting_started.html#支持的soc)，您可以在其中查找到特定芯片是受稳定或开发版本软件的支持。
+有关 SoC 支持的相关内容，请查看所[支持 Soc 表格](/esp32Doc/contents/getting_started.html#支持的soc)，您可以在其中查找到特定芯片是受稳定或开发版本软件的支持。
 '''
 
 - 稳定版发布链接
@@ -31,5 +31,5 @@ https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32
 ```
 
 ```note
-从 Arduino IDE 1.6.4版本 开始，Arduino 允许使用 开发板管理器安装第三方平台包。有适用于 Windows、macOS 和 Linux 平台的软件包。
+从 Arduino IDE 1.6.4版本开始，Arduino 允许使用开发板管理器安装第三方平台包。有适用于 Windows、macOS 和 Linux 平台的软件包。
 ```
