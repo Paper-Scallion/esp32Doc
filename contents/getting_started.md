@@ -35,7 +35,7 @@ ESP32 专为移动、可穿戴电子设备和物联网（IoT）应用而设计�
 
 ## Arduino 核心参考
 
-本文档基于 ESP32 构建，不会介绍常见的 Arduino API。要查看 Arduino API 的介绍，请考虑阅读[Arduino官方文档](https://www.arduino.cc/reference/en/)。
+本文档只介绍 ESP32 所特有的API等内容，不会介绍常见的 Arduino API。要查看 Arduino API 的介绍，请考虑阅读[Arduino官方文档](https://www.arduino.cc/reference/en/)。
 
 ## 支持的操作系统
 
@@ -50,3 +50,42 @@ ESP32 专为移动、可穿戴电子设备和物联网（IoT）应用而设计�
 | Arduino IDE                                                  | PlatformIO                                                   |
 
 查看 安装指导 章节来获取关于 Arduino ESP32 安装的更多信息。
+
+## 支持
+
+这是一个开放并且受到 ESP32 社区支持的项目，如果有任何疑惑，可以向以下任何一个社区提问。
+
+## 社区
+
+Arduino 社区相当庞大，你可以在其中找到大量有价值的内容，如果需要的话，可以在以下社区查询相关资料或是提问。
+
+[ESP32 Forum](https://esp32.com/) 乐鑫科技官方论坛
+[ESP32 Forum - Arduino](https://esp32.com/viewforum.php?f=19) 乐鑫科技官方论坛 Arduino 板块
+[ESP32 Forum - Hardware](https://esp32.com/viewforum.php?f=12) 乐鑫科技官方论坛硬件板块
+[Gitter](https://gitter.im/espressif/arduino-esp32)
+[Espressif MCUs (Discord)](https://discord.gg/nKxMTnkD)
+[ESP32 on Reddit](https://www.reddit.com/r/esp32)
+
+## 问题反馈
+
+在提出新问题之前，请阅读以下内容：
+请务必先搜索你要提出的问题，包括但不限于在搜索引擎、ESP32 论坛、GitHub Issues中等。可以很好地避免重复解答、浪费宝贵的资源。我们这里还提供故障排除指南，以便在遇见常见问题时节省您宝贵的时间。
+有关提出新问题的更多详细内容，请参阅[反馈模板](https://github.com/espressif/arduino-esp32/blob/master/.github/ISSUE_TEMPLATE/Issue-report.yml)。
+如果您有任何新想法，请参阅功能[请求模板](https://github.com/espressif/arduino-esp32/blob/master/.github/ISSUE_TEMPLATE/Feature-request.yml)。
+
+## 第一步
+
+以下是让 Arduino ESP32 支持运行的第一步。
+
+要安装 Arduino-ESP32，请参阅安装指南中的对应部分。我们建议您使用开发板管理器来安装。
+
+## 示例程序
+
+将工具链安装到您的集成开发环境后，您将能够看到 ESP32 的所有[专用示例](https://github.com/espressif/arduino-esp32/tree/master/libraries)。这些示例位于示例菜单中或每个库的文件夹中。
+
+## 数据手册
+
+[ESP32](https://www.espressif.com.cn/sites/default/files/documentation/esp32_datasheet_cn.pdf)
+[ESP32-S2](https://www.espressif.com.cn/sites/default/files/documentation/esp32-s2_datasheet_cn.pdf)
+[ESP32-C3](https://www.espressif.com.cn/sites/default/files/documentation/esp32-c3_datasheet_cn.pdf)
+[ESP32-S3](https://www.espressif.com.cn/sites/default/files/documentation/esp32-s3_datasheet_cn.pdf)
