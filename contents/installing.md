@@ -1,3 +1,7 @@
+---
+sort: 2
+---
+
 # 安装
 下面将讲述如何安装 Arduino-ESP32 。
 
@@ -16,16 +20,16 @@
 
 - 稳定版发布链接
 
-'''
+```
 https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
-'''
+```
 
 - 开发版发布链接
 
-'''
+```
 https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_dev_index.json
-'''
+```
 
-'''note
+```note
 从 Arduino IDE 1.6.4版本 开始，Arduino 允许使用 开发板管理器安装第三方平台包。有适用于 Windows、macOS 和 Linux 平台的软件包。
-'''
+```
