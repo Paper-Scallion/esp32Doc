@@ -59,18 +59,26 @@ ESP32 专为移动、可穿戴电子设备和物联网（IoT）应用而设计�
 
 Arduino 社区相当庞大，你可以在其中找到大量有价值的内容，如果需要的话，可以在以下社区查询相关资料或是提问。
 
-[ESP32 Forum](https://esp32.com/) 乐鑫科技官方论坛
-[ESP32 Forum - Arduino](https://esp32.com/viewforum.php?f=19) 乐鑫科技官方论坛 Arduino 板块
-[ESP32 Forum - Hardware](https://esp32.com/viewforum.php?f=12) 乐鑫科技官方论坛硬件板块
-[Gitter](https://gitter.im/espressif/arduino-esp32)
-[Espressif MCUs (Discord)](https://discord.gg/nKxMTnkD)
-[ESP32 on Reddit](https://www.reddit.com/r/esp32)
+- [ESP32 Forum](https://esp32.com/) 乐鑫科技官方论坛
+
+- [ESP32 Forum - Arduino](https://esp32.com/viewforum.php?f=19) 乐鑫科技官方论坛 Arduino 板块
+
+- [ESP32 Forum - Hardware](https://esp32.com/viewforum.php?f=12) 乐鑫科技官方论坛硬件板块
+
+- [Gitter](https://gitter.im/espressif/arduino-esp32)
+
+- [Espressif MCUs (Discord)](https://discord.gg/nKxMTnkD)
+
+- [ESP32 on Reddit](https://www.reddit.com/r/esp32)
 
 ## 问题反馈
 
 在提出新问题之前，请阅读以下内容：
+
 请务必先搜索你要提出的问题，包括但不限于在搜索引擎、ESP32 论坛、GitHub Issues中等。可以很好地避免重复解答、浪费宝贵的资源。我们这里还提供故障排除指南，以便在遇见常见问题时节省您宝贵的时间。
+
 有关提出新问题的更多详细内容，请参阅[反馈模板](https://github.com/espressif/arduino-esp32/blob/master/.github/ISSUE_TEMPLATE/Issue-report.yml)。
+
 如果您有任何新想法，请参阅功能[请求模板](https://github.com/espressif/arduino-esp32/blob/master/.github/ISSUE_TEMPLATE/Feature-request.yml)。
 
 ## 第一步
@@ -85,7 +93,10 @@ Arduino 社区相当庞大，你可以在其中找到大量有价值的内容，
 
 ## 数据手册
 
-[ESP32](https://www.espressif.com.cn/sites/default/files/documentation/esp32_datasheet_cn.pdf)
-[ESP32-S2](https://www.espressif.com.cn/sites/default/files/documentation/esp32-s2_datasheet_cn.pdf)
-[ESP32-C3](https://www.espressif.com.cn/sites/default/files/documentation/esp32-c3_datasheet_cn.pdf)
-[ESP32-S3](https://www.espressif.com.cn/sites/default/files/documentation/esp32-s3_datasheet_cn.pdf)
+- [ESP32](https://www.espressif.com.cn/sites/default/files/documentation/esp32_datasheet_cn.pdf)
+
+- [ESP32-S2](https://www.espressif.com.cn/sites/default/files/documentation/esp32-s2_datasheet_cn.pdf)
+
+- [ESP32-C3](https://www.espressif.com.cn/sites/default/files/documentation/esp32-c3_datasheet_cn.pdf)
+
+- [ESP32-S3](https://www.espressif.com.cn/sites/default/files/documentation/esp32-s3_datasheet_cn.pdf)
